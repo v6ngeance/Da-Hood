@@ -1,2 +1,1 @@
-warn("@v6ngeance on discord")
-
+warn("v6ngeance")
